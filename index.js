@@ -12,7 +12,7 @@ function calcMax(bl) {
 }
 
 async function getWaveform(filePath) {
-  const audioBuffer = await decode(fs.readFileSync(filePath););
+  const audioBuffer = await decode(fs.readFileSync(filePath));
 
   const rawData = audioBuffer.getChannelData(0);
   const blSamples = Math.floor(rawData.length / 300);
