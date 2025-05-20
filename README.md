@@ -2,7 +2,7 @@
 Generates a waveform from audio in Discord and WhatsApp format 
 # How to Use
 ```js
-const { waveform } = require("./index.js")
+const { getWaveform } = require("./index.js")
 
 waveform = await getWaveform("./file.mp3")
 console.log(waveform)
