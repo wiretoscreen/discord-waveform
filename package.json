@@ -1,7 +1,7 @@
 {
-  "name": "discord-waveform",
+  "name": "@wiretoscreen/discord-waveform",
   "version": "1.0.0",
-  "description": "Generates a waveform from audio in Discord and WhatsApp format  # How to Use ```js const { getWaveform } = require(\"./index.js\")",
+  "description": "Generates a waveform from audio in Discord and WhatsApp format.",
   "homepage": "https://github.com/wiretoscreen/discord-waveform#readme",
   "bugs": {
     "url": "https://github.com/wiretoscreen/discord-waveform/issues"
