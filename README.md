@@ -7,7 +7,7 @@ Generates a compact waveform string from an audio file, in the same style used b
 ## 📦 Installation
 
 ```bash
-npm install discord-waveform
+npm install @wiretoscreen/discord-waveform
 ```
 
 ## 💫 Usage
